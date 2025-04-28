@@ -1,4 +1,5 @@
-<h1>👋 Olá! Eu sou a Juliana Souza, Analista de Dados apaixonada por tecnologia!</h1>
+<h1 style="color:  #d65cad; font-family: 'Arial', sans-serif; text-align: center;">👋 Olá! Eu sou a Juliana Souza, Analista de Dados apaixonada por tecnologia!</h1>
+
 
 <p>
 Atuo como Analista de Dados, cargo conquistado após um ano de estágio e muita dedicação. Estou em minha segunda graduação e cada vez mais envolvida com o universo da tecnologia. Além disso, pretendo seguir com uma pós-graduação em Engenharia de Software para expandir meus conhecimentos e habilidades.
